@@ -1,0 +1,27 @@
+name: Ivan Katkov
+job: Techwriter
+skill: Normal
+employed: true
+
+ 
+
+favorite food:
+  - Doshik
+  - Pivchik
+  - Kartofan4ik
+  - Ogur4iki
+ 
+
+languages:
+  python:
+    level: Junior
+    libraries: [Pandas, NumPy, Pytorch]
+    frameworks: [Flask, Django]
+  rust:
+    level: Pre-junior
+    libraries: None
+    frameworks: None
+  Javascript: 
+    level: Pre-junior
+    libraries: None
+    frameworks: Angular
